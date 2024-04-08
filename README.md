@@ -6,13 +6,15 @@
 
 - 🌱 I’m currently learning **Ionic**
 
-- 🤝 I’m looking for help with **Ionic**
+
 
 - 💬 Ask me about **Angular**
 
 - 📫 How to reach me **sisaytadesse298626@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
+- 📫 **sisaytadesse298626@gmail.com**
 <p align="left">
 </p>
 
