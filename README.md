@@ -1,8 +1,8 @@
 
 <h1 align="center">I'm SISAY</h1>
-<h3 align="center">Student MSC in Computer Science</h3>
+<h3 align="center">Student of MSC in Computer Science, specialization AI</h3>
 
-- 🔭 I’m currently working attending Masters at Leiden University 
+- 🔭 I’m currently attending Masters at Leiden University 
 
 - 🌱 I’m currently learning **Automated machine learning**
 
